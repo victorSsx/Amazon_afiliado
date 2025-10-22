@@ -1,0 +1,126 @@
+@media (max-width: 768px) {
+  header {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  nav {
+    margin-top: 1rem;
+  }
+
+  .product-content {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .product-img {
+    max-width: 100%;
+    height: auto;
+  }
+
+  .about-content {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .testimonials-grid {
+    grid-template-columns: 1fr;
+  }
+}
+@media (max-width: 480px) {
+  .hero h1 {
+    font-size: 1.5rem;
+  }
+
+  .hero p {
+    font-size: 1rem;
+  }
+
+  .about-section, .product-section, .testimonials-section {
+    padding: 1rem;
+  }
+}
+
+@media (min-width: 769px) and (max-width: 1024px) {
+  .testimonials-grid {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+@media (min-width: 481px) and (max-width: 768px) {
+  .testimonials-grid {
+    grid-template-columns: 1fr;
+  }
+}
+@media (min-width: 1025px) {
+  .testimonials-grid {
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+}
+@media (max-width: 600px) {
+  .header nav a {
+    margin: 0 0.5rem;
+    font-size: 0.9rem;
+  }
+}
+@media (max-width: 400px) {
+  .header nav a {
+    margin: 0 0.3rem;
+    font-size: 0.8rem;
+  }
+}
+@media (max-width: 320px) {
+  .hero h1 {
+    font-size: 1.2rem;
+  }
+
+  .hero p {
+    font-size: 0.9rem;
+  }
+}
+@media (max-width: 280px) {
+  .header nav a {
+    font-size: 0.7rem;
+  }
+}
+@media (max-width: 240px) {
+  .hero h1 {
+    font-size: 1rem;
+  }
+
+  .hero p {
+    font-size: 0.8rem;
+  }
+}
+@media (max-width: 200px) {
+  .header nav a {
+    font-size: 0.6rem;
+  }
+}
+@media (max-width: 180px) {
+  .hero h1 {
+    font-size: 0.9rem;
+  }
+
+  .hero p {
+    font-size: 0.7rem;
+  }
+}
+@media (max-width: 160px) {
+  .header nav a {
+    font-size: 0.5rem;
+  }
+}
+@media (max-width: 140px) {
+  .hero h1 {
+    font-size: 0.8rem;
+  }
+
+  .hero p {
+    font-size: 0.6rem;
+  }
+}
+@media (max-width: 120px) {
+  .header nav a {
+    font-size: 0.4rem;
+  }
+}
