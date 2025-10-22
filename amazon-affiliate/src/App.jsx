@@ -6,7 +6,7 @@ import AboutSection from "./component/AboutSection";
 import ProductSection from "./component/ProductSection";
 import CredibilitySection from "./component/CredibilitySection";
 import TestimonialsSection from "./component/TestimonialsSection";
-import Footer from "./component/Footer";
+import Footer from "./component/footer";
 
 
 function App() {
