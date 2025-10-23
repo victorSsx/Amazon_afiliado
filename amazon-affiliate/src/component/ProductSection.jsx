@@ -22,15 +22,16 @@ function ProductSection() {
           </ul>
 
           <div className="product-price">
-            <p className="price">R$ 47,00</p>
+            <p className="price">R$ 39,90</p>
             <a
-              href="https://go.hotmart.com/S102503336O?dp=1"
+              href="https://go.hotmart.com/S102503336O"
               className="buy-btn"
               target="_blank"
               rel="noopener noreferrer"
             >
               Comprar Agora
             </a>
+            <p className="cta-note">🔒 Garantia de 7 dias — você tem acesso completo sem risco</p>
           </div>
         </div>
       </div>

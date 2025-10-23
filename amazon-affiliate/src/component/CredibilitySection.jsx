@@ -38,7 +38,7 @@ function CredibilitySection() {
           </div>
         </div>
 
-        <a href="#" className="cta-btn">
+        <a href="https://go.hotmart.com/S102503336O" className="cta-btn">
           Acessar Agora
         </a>
       </div>
