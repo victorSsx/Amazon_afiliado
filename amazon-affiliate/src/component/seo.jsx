@@ -7,6 +7,7 @@ function SEO() {
       <title>
         Amazon Affiliate Pro Brasil | Renda Extra com Marketing de Afiliados
       </title>
+      <meta name="google-site-verification" content="ZNYzSqJjgcBydgdfyXjVLILKJns2c3Q6aikzhMTo6Ms" />
       <meta
         name="description"
         content="Aprenda a gerar renda extra com o Amazon Affiliate Pro Brasil. Domine o marketing de afiliados com estratégias práticas, suporte e garantia de 7 dias!"
