@@ -1,5 +1,6 @@
 import "./App.css";
 import "./Responsive.css";
+import SEO from "./component/seo";
 import Header from "./component/header";
 import Hero from "./component/hero";
 import AboutSection from "./component/AboutSection";
@@ -12,6 +13,7 @@ import Footer from "./component/footer";
 function App() {
   return (
     <div className="app">
+      <SEO />
       <Header />
       <Hero />
       <ProductSection />
